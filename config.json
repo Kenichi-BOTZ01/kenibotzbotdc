@@ -1,7 +1,7 @@
 {
 
-    "OWNER_ID":"",
-    "BOT_TOKEN": "",
+    "OWNER_ID":"Kenichi#0678",
+    "BOT_TOKEN": "MTAwNzcyNTUzMDUwMzcyOTE2Mg.GdPA6Z.h5ERy7Xv2G2g8V-pk-aG4MRN4jfG9VBp7u8Wk0",
     "tenorAPI":"ZEEELJXAFQBN",
     "DEFAULT_PREFIX":"!",
     "mongoPass": "",
