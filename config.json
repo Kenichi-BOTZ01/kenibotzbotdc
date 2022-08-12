@@ -4,9 +4,9 @@
     "BOT_TOKEN": "MTAwNzcyNTUzMDUwMzcyOTE2Mg.GdPA6Z.h5ERy7Xv2G2g8V-pk-aG4MRN4jfG9VBp7u8Wk0",
     "tenorAPI":"ZEEELJXAFQBN",
     "DEFAULT_PREFIX":"!",
-    "mongoPass": "",
+    "mongoPass": "mongodb+srv://Kenichi:<hansch12345>@cluster0.flatata.mongodb.net/?retryWrites=true&w=majority",
     "ERROR_LOGS_CHANNEL": "",
-    "YT_COOKIE": ""
+    "YT_COOKIE": "AGXVzq_s82mFHzKxY_TU7-IAVdFYdlUokS3OFXWLUC93jgQQSA_TbbcHo4Qz6sSQK89x9mLmVIM0ZXVuUC1gFljhh_Y08KKf2HicA3R2ruhsyIouyhtsVTNppWWOluJO82LBAkKz_0yWlYha-xiwaw"
     
 }
 
